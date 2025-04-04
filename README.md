@@ -1,3 +1,4 @@
+# MEMETIC-MATRIX-DALLE-MINI-ENGINE
 
 ### 🔹 OPTION 1: **Use the Web Interface (EASIEST)**
 
